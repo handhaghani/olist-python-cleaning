@@ -1,6 +1,7 @@
 # 🧹 Olist E-Commerce Dataset – Data Cleaning in Python
 
-This repository contains Python code for cleaning the **Olist E-Commerce dataset**, a Brazilian retail dataset frequently used in data analytics and machine learning projects.
+This repository contains Python code for cleaning the **Olist E-Commerce dataset**, a Brazilian retail dataset frequently used in data analytics and machine learning projects. Dataset is found here:  https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 
 ## 📦 Dataset Description
 
