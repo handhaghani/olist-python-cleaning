@@ -24,6 +24,7 @@ The following 9 datasets were cleaned and exported with a `_1` suffix to indicat
 8. `sellers_1.csv`
 9. `category_translation_1.csv`
 
+However due to the size of the datasets, the cleaned datasets are not uploaded here. 
 ---
 
 ## 🧼 Cleaning Summary
@@ -58,10 +59,6 @@ The cleaned datasets are ready to be imported into **MySQL** for **Exploratory D
 ---
 
 ## 📂 Repository Structure
-├── data/
-│ ├── orders_1.csv
-│ ├── order_items_1.csv
-│ └── ... (remaining cleaned datasets)
 ├── notebooks/
 │ └── olist_data_cleaning.ipynb
 ├── README.md
